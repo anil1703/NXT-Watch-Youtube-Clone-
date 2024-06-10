@@ -1,0 +1,34 @@
+.VideoViewandLikes {
+  font-size: 12px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: -10px;
+  align-items: center;
+}
+
+.videoViewsDiv {
+  display: flex;
+  gap: 10px;
+}
+
+.videoLikesDiv {
+  display: flex;
+  gap: 10px;
+}
+
+.VideoLikeButtonsStyle {
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  gap: 3px;
+}
+.videoChannelDiv {
+  display: flex;
+  font-size: 15px;
+  width: 100%;
+  gap: 10px;
+  align-items: flex-start;
+}

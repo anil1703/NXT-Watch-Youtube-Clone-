@@ -1,0 +1,18 @@
+.navbar-ul {
+  display: flex;
+  width: 230px;
+  justify-content: space-between;
+  margin-right: 20px;
+  list-style: none;
+  align-items: center;
+}
+.nav-profile {
+  height: 30px;
+}
+.header-logo {
+  height: 50px;
+}
+.themebtn {
+  border: none;
+  background-color: transparent;
+}
